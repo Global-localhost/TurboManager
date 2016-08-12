@@ -1,5 +1,4 @@
-# TurboManager
-Turbo Manager™
+<h1 align="center">Turbo Manager™</h1>
 
 ## License
 
